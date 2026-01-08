@@ -1,6 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=tats-u)](https://github.com/ryo-ma/github-profile-trophy)
-[![tats-u's github stats](https://github-readme-stats.vercel.app/api?username=tats-u)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tats-u)](https://github.com/anuraghazra/github-readme-stats)
+Spreading https://github.com/tats-u/markdown-cjk-friendly because CommonMark is NOT common language for CJK people.
 
 Qiita: https://qiita.com/tats-u
 
